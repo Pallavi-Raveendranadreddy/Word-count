@@ -37,7 +37,7 @@ print("count",count)
 ```
 
 ### OUTPUT:
-![code](code.png)
+![code](https://github.com/Pallavi-Raveendranadreddy/Word-count/blob/e29460dffb2356418b93be82bd9078cc3a0bf383/code.PNG)
 ![wordcount](wordcount.PNG)
 ![length](length.PNG)
 ## RESULT:
